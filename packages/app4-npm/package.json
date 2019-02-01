@@ -1,0 +1,11 @@
+{
+  "name": "@rmlevangelio/app4-npm",
+  "version": "0.0.4",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "ramda": "0.16.0"
+  }
+}
